@@ -2,12 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=EVERY+THING+YOU+NEED+IS+WITHIN+YOU)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ALL+ DATA+IS+SAME)](https://git.io/typing-svg)
+
 
 
 # 🏄‍♂️ Abhinav Panjiyar
 
-**`Coder(python,cloud computing)`**
+**`ALL DATA IS SAME`**
 
 
    
