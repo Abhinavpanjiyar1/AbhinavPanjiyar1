@@ -39,6 +39,5 @@
 
 <details>
  <summary><h3>👨‍💻 Abhinav Coding Journey</h3></summary>
-   I started my coding journey from the 100 days of code The complete python pro bootcamp course by ANGELA Yu and still on that course😂😂
-
+   LIFE IS A JOURNEY, ENJOY IT
 [website]: abhinavpanjiyar.com.np
